@@ -3,11 +3,12 @@
     padding: 0;
     margin: 0;
 }
-
+/* background color of the page */
 body {
     background-color: #d9dcd6;
 }
 
+/* header styling */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -36,7 +37,7 @@ body {
     margin-left: 25px;
     list-style-type: none;
 }
-
+/* nav styling */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -123,7 +124,7 @@ altogether as they have same attributes */
 }
 
 
-
+/* footer styling */
 .footer {
     padding: 30px;
     clear: both;
