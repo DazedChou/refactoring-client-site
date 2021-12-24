@@ -2,6 +2,9 @@
 
 The assigned task is to simplify the clients website code and to make it more accessible, such as adding alt tags to images, adding semantic HTML elements, and removing extraneous code. 
 
+* ![](Screenshot_1.jpg)
+* ![](Screenshot_2.jpg)
+
 ## Built With
 
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
